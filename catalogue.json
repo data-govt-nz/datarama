@@ -1,0 +1,39 @@
+{
+  "@odata.context": "http://infoshare-api-app.azurewebsites.net/$metadata#Subjects",
+  "value": [
+    {
+      "Id": 1,
+      "Name": "Electronic Card Transactions: October 2016",
+      "Description": null,
+      "isActive": false,
+      "SubjectGroupId": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Annual Enterprise Survey: 2015 financial year (provisional)",
+      "Description": null,
+      "isActive": false,
+      "SubjectGroupId": 1
+    },
+    {
+      "Id": 3,
+      "Name": "Balance of Payments and International Investment Position: June 2016 quarter",
+      "Description": null,
+      "isActive": false,
+      "SubjectGroupId": 2
+    },
+    {
+      "Id": 4,
+      "Name": "Business Price Indexes: September 2016 quarter",
+      "Description": null,
+      "isActive": false,
+      "SubjectGroupId": 2
+    },
+        {
+      "Id": 14,
+      "Name": "Labour Market Statistics: September 2016 quarter",
+      "Description": null,
+      "isActive": false,
+      "SubjectGroupId": 4
+    }
+ }
