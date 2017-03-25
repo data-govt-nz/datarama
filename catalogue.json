@@ -46,7 +46,15 @@
       "publisher": "Statistics New Zealand",
       "license": "",
       "keyword": {"Employment", "Unemployment", "Hours Worked", "Labour Force", "Economy", "Work", "Income", "Earnings", "Wage Inflation"},
-      "modified": "2017-02-22T00:06:43.1870273Z"
+      "modified": "2017-02-22T00:06:43.1870273Z",
+      "contactPoint": "",
+      "references": [
+          "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/b7c39358-aa03-446f-a27d-91c37caac35d",
+          "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/9007195c-8dc3-4dfb-b5da-1b12c32e90ac",
+          "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/086258b1-90e6-4728-981d-756b3ca6e147",
+          "http://datainfoplus.stats.govt.nz/",
+          "http://www.stats.govt.nz/browse_for_stats/snapshots-of-nz/nz-social-indicators/Home/Labour market.aspx",
+      ]
     }
     ]
  }
