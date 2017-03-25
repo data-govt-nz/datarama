@@ -1,1 +1,34 @@
-{"@odata.context":"http://infoshare-api-app.azurewebsites.net/$metadata#SubFamily","value":[{"Id":1,"Title":"\tNumber of electronic card transactions A/S/T by division","LastUpdated":null,"Frequency":null,"SubjectId":1},{"Id":2,"Title":"\tTotal values - Electronic card transactions A/S/T by division","LastUpdated":null,"Frequency":null,"SubjectId":1},{"Id":3,"Title":"\tTotals - Electronic card transactions by division, percentage changes","LastUpdated":null,"Frequency":null,"SubjectId":1},{"Id":4,"Title":"\tValues - Electronic card transactions A/S/T by industry group","LastUpdated":null,"Frequency":null,"SubjectId":1},{"Id":5,"Title":"\tElectronic card transactions by mean and proportion","LastUpdated":null,"Frequency":null,"SubjectId":1}]}
+{
+    "@odata.context": "http://infoshare-api-app.azurewebsites.net/$metadata#SubFamily",
+    "value": [{
+        "Id": 1,
+        "Title": "\tNumber of electronic card transactions A/S/T by division",
+        "LastUpdated": null,
+        "Frequency": null,
+        "SubjectId": 1
+    }, {
+        "Id": 2,
+        "Title": "\tTotal values - Electronic card transactions A/S/T by division",
+        "LastUpdated": null,
+        "Frequency": null,
+        "SubjectId": 1
+    }, {
+        "Id": 3,
+        "Title": "\tTotals - Electronic card transactions by division, percentage changes",
+        "LastUpdated": null,
+        "Frequency": null,
+        "SubjectId": 1
+    }, {
+        "Id": 4,
+        "Title": "\tValues - Electronic card transactions A/S/T by industry group",
+        "LastUpdated": null,
+        "Frequency": null,
+        "SubjectId": 1
+    }, {
+        "Id": 5,
+        "Title": "\tElectronic card transactions by mean and proportion",
+        "LastUpdated": null,
+        "Frequency": null,
+        "SubjectId": 1
+    }]
+}
