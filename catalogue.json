@@ -6,7 +6,7 @@
   "value": [
     {
       "@type": "dcat:Dataset",
-      "Id": 1,
+      "identifier": 1,
       "title": "Electronic Card Transactions: October 2016",
       "description": null,
       "isActive": false,
@@ -14,7 +14,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "Id": 2,
+      "identifier": 2,
       "title": "Annual Enterprise Survey: 2015 financial year (provisional)",
       "description": null,
       "isActive": false,
@@ -22,7 +22,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "Id": 3,
+      "identifier": 3,
       "title": "Balance of Payments and International Investment Position: June 2016 quarter",
       "description": null,
       "isActive": false,
@@ -30,7 +30,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "Id": 4,
+      "identifier": 4,
       "title": "Business Price Indexes: September 2016 quarter",
       "description": null,
       "isActive": false,
@@ -38,7 +38,7 @@
     },
         {
       "@type": "dcat:Dataset",
-      "Id": 14,
+      "identifier": 14,
       "title": "Labour Market Statistics: September 2016 quarter",
       "description": null,
       "isActive": false,
