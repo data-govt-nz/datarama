@@ -5,37 +5,42 @@
   "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
   "value": [
     {
+      "@type": "dcat:Dataset",
       "Id": 1,
-      "Name": "Electronic Card Transactions: October 2016",
-      "Description": null,
+      "title": "Electronic Card Transactions: October 2016",
+      "description": null,
       "isActive": false,
       "SubjectGroupId": 1
     },
     {
+      "@type": "dcat:Dataset",
       "Id": 2,
-      "Name": "Annual Enterprise Survey: 2015 financial year (provisional)",
-      "Description": null,
+      "title": "Annual Enterprise Survey: 2015 financial year (provisional)",
+      "description": null,
       "isActive": false,
       "SubjectGroupId": 1
     },
     {
+      "@type": "dcat:Dataset",
       "Id": 3,
-      "Name": "Balance of Payments and International Investment Position: June 2016 quarter",
-      "Description": null,
+      "title": "Balance of Payments and International Investment Position: June 2016 quarter",
+      "description": null,
       "isActive": false,
       "SubjectGroupId": 2
     },
     {
+      "@type": "dcat:Dataset",
       "Id": 4,
-      "Name": "Business Price Indexes: September 2016 quarter",
-      "Description": null,
+      "title": "Business Price Indexes: September 2016 quarter",
+      "description": null,
       "isActive": false,
       "SubjectGroupId": 2
     },
         {
+      "@type": "dcat:Dataset",
       "Id": 14,
-      "Name": "Labour Market Statistics: September 2016 quarter",
-      "Description": null,
+      "title": "Labour Market Statistics: September 2016 quarter",
+      "description": null,
       "isActive": false,
       "SubjectGroupId": 4
     }
