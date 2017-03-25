@@ -1,5 +1,6 @@
 {
   "@odata.context": "http://infoshare-api-app.azurewebsites.net/$metadata#Subjects",
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
   "value": [
     {
       "Id": 1,
